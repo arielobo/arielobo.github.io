@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.jumbotron {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.jumbotron center h1 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bold;
+}
+body {
+	background-image: url(fed6d792a681654ae3694ef5c42fdfd0.jpg);
+}
+.col-sm-4 ul li {
+}
+.row .col-sm-4 ul {
+	background-color: #F8F0F0;
+}
+.container .row {
+}

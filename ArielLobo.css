@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body {
+	background-image: url(fed6d792a681654ae3694ef5c42fdfd0.jpg);
+}
+.btn-group a .btn.btn-default.btn-lg {
+	width: 155px;
+	height: 46px;
+}
+body center h1 {
+	font-weight: normal;
+	font-size: 100px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body center h2 {
+	font-size: 70px;
+	font-weight: normal;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.btn-group .btn.btn-default {
+	width: 375px;
+	height: 66px;
+}
+.progress {
+	width: 895px;
+	height: 335px;
+}
+body center h3 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}

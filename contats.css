@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.jumbotron {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,252,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+body {
+	background-image: url(../Desktop/portfolio/fed6d792a681654ae3694ef5c42fdfd0.jpg);
+}
+.row {
+	background-color: #EFCCBD;
+}
